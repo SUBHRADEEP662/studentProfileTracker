@@ -11,6 +11,7 @@ function Base(){
                 <Route exact path='/' render={()=><App />} />
                 <Route exact path='/student' render={()=><StudentDashboardMain />} />
                 <Route exact path='/mentor' render={()=><MentorDashboardMain />} />
+                <Route exact path='/studentProfileTracker' render={()=><App />} />
                 <Route render={Error} />
             </Switch>
         </>

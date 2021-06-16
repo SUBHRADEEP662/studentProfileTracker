@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/studentProfileTracker/static/css/main.24bfe7f0.chunk.css",
+    "main.js": "/studentProfileTracker/static/js/main.4b0decc6.chunk.js",
+    "main.js.map": "/studentProfileTracker/static/js/main.4b0decc6.chunk.js.map",
+    "runtime-main.js": "/studentProfileTracker/static/js/runtime-main.94634965.js",
+    "runtime-main.js.map": "/studentProfileTracker/static/js/runtime-main.94634965.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/studentProfileTracker/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.8514ba16.chunk.js": "/studentProfileTracker/static/js/2.8514ba16.chunk.js",
+    "static/js/2.8514ba16.chunk.js.map": "/studentProfileTracker/static/js/2.8514ba16.chunk.js.map",
+    "index.html": "/studentProfileTracker/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/studentProfileTracker/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.24bfe7f0.chunk.css.map": "/studentProfileTracker/static/css/main.24bfe7f0.chunk.css.map",
+    "static/js/2.8514ba16.chunk.js.LICENSE.txt": "/studentProfileTracker/static/js/2.8514ba16.chunk.js.LICENSE.txt",
+    "static/media/android2.20d74a0f.png": "/studentProfileTracker/static/media/android2.20d74a0f.png",
+    "static/media/brand.9afe7729.jpg": "/studentProfileTracker/static/media/brand.9afe7729.jpg",
+    "static/media/gmit1.9189274f.jpg": "/studentProfileTracker/static/media/gmit1.9189274f.jpg",
+    "static/media/net.89fc1882.png": "/studentProfileTracker/static/media/net.89fc1882.png",
+    "static/media/react2.14d1d140.png": "/studentProfileTracker/static/media/react2.14d1d140.png",
+    "static/media/spring.09b1302f.png": "/studentProfileTracker/static/media/spring.09b1302f.png",
+    "static/media/std1.38ea63a4.jpg": "/studentProfileTracker/static/media/std1.38ea63a4.jpg",
+    "static/media/std2.2043ca13.jpg": "/studentProfileTracker/static/media/std2.2043ca13.jpg",
+    "static/media/std3.88cfdaef.jpg": "/studentProfileTracker/static/media/std3.88cfdaef.jpg",
+    "static/media/std4.1e88df43.jpg": "/studentProfileTracker/static/media/std4.1e88df43.jpg",
+    "static/media/std5.da9548da.jpg": "/studentProfileTracker/static/media/std5.da9548da.jpg",
+    "static/media/std6.81ff7a32.jpg": "/studentProfileTracker/static/media/std6.81ff7a32.jpg",
+    "static/media/std7.ab5cafd6.jpg": "/studentProfileTracker/static/media/std7.ab5cafd6.jpg",
+    "static/media/std8.5b5cff38.jpg": "/studentProfileTracker/static/media/std8.5b5cff38.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94634965.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.8514ba16.chunk.js",
+    "static/css/main.24bfe7f0.chunk.css",
+    "static/js/main.4b0decc6.chunk.js"
+  ]
+}

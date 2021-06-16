@@ -5,6 +5,7 @@ import {useState} from 'react';
 import Axios from 'axios';
 import jwt from 'jwt-decode';
 import { useHistory } from 'react-router';
+import {NavLink} from 'react-router-dom';
 
 function MyNav() {
     const [modalShow, setModalShow] = useState(false);
@@ -25,10 +26,14 @@ function MyNav() {
                 <li className="nav-item">
                     <a className="nav-link font-weight-bold text-primary" onClick={() => setModalShow(true)} href="#2"> <i className='fa fa-user-plus'></i> SIGN UP</a>
                 </li> &nbsp;&nbsp;
+                <li className="nav-item">
+                    <a href='#student' className="nav-link font-weight-bold text-primary"><NavLink to='/student'>Student</NavLink></a>
+                </li>
+                <li className="nav-item">
+                    <a href='#mentor' className="nav-link font-weight-bold text-primary"> <NavLink to='/mentor'>Mentor</NavLink> </a>
+                </li>
                 
-                {/* <li className="nav-item">
-                    <a className="nav-link font-weight-bold text-primary" href="#3"> <i className='fa fa-unlock-alt'></i> ADMIN</a>
-                </li>     */}
+        
                 </ul>
   </div> 
             </nav>
