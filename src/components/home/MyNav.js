@@ -27,10 +27,10 @@ function MyNav() {
                     <a className="nav-link font-weight-bold text-primary" onClick={() => setModalShow(true)} href="#2"> <i className='fa fa-user-plus'></i> SIGN UP</a>
                 </li> &nbsp;&nbsp;
                 <li className="nav-item">
-                    <a href='#student' className="nav-link font-weight-bold text-primary"><NavLink to='/student'>Student</NavLink></a>
+                    <a href='#student' className="nav-link font-weight-bold text-primary"><NavLink to='/student'>STUDENT</NavLink></a>
                 </li>
                 <li className="nav-item">
-                    <a href='#mentor' className="nav-link font-weight-bold text-primary"> <NavLink to='/mentor'>Mentor</NavLink> </a>
+                    <a href='#mentor' className="nav-link font-weight-bold text-primary"> <NavLink to='/mentor'>MENTOR</NavLink> </a>
                 </li>
                 
         
